@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">¡Botones Locos!</string>
+    <string name="boton1">1</string>
+    <string name="boton2">2</string>
+    <string name="boton3">3</string>
+    <string name="boton4">4</string>
+    <string name="boton5">5</string>
+    <string name="boton6">6</string>
+    <string name="boton7">7</string>
+    <string name="boton8">8</string>
+    <string name="boton9">9</string>
+    <string name="boton10">10</string>
+    <string name="boton11">11</string>
+    <string name="boton12">12</string>
+    <string name="boton13">13</string>
+    <string name="boton14">14</string>
+    <string name="boton15">15</string>
+    <string name="boton16">16</string>
+    <string name="boton17">17</string>
+    <string name="boton18">18</string>
+    <string name="boton19">19</string>
+    <string name="boton20">20</string>
+    <string name="boton21">21</string>
+    <string name="boton22">22</string>
+    <string name="boton23">23</string>
+    <string name="boton24">24</string>
+    <string name="boton25">25</string>
+    <string name="action_settings">Apagar/Musica</string>
+    <string name="text1">¡¡Toca los botones en orden ascendente para ganar!!</string>
+    <string name="text2">¡Tu puedes!</string> 
+    <string name="text3">¿Empezamos?</string>  
+
+</resources>
